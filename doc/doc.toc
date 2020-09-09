@@ -1,0 +1,34 @@
+\contentsline {section}{\numberline {1}Introduzione}{3}%
+\contentsline {paragraph}{Apprendimento supervisionato}{3}%
+\contentsline {section}{\numberline {2}Preprocessing}{3}%
+\contentsline {paragraph}{Dataset}{3}%
+\contentsline {subsection}{\numberline {2.1}Feature dicotomiche}{3}%
+\contentsline {subsection}{\numberline {2.2}Feature categoriche}{4}%
+\contentsline {section}{\numberline {3}Alberi di regressione}{4}%
+\contentsline {subsection}{\numberline {3.1}Recursive binary splitting}{4}%
+\contentsline {subsection}{\numberline {3.2}Criterio di split}{4}%
+\contentsline {subsection}{\numberline {3.3}Valori di split}{5}%
+\contentsline {subsection}{\numberline {3.4}Parametri di tuning}{5}%
+\contentsline {section}{\numberline {4}Pruning}{6}%
+\contentsline {paragraph}{Overfitting}{6}%
+\contentsline {subsection}{\numberline {4.1}Minimal Cost Complexity Pruning}{6}%
+\contentsline {subsection}{\numberline {4.2}Weakest link cutting}{6}%
+\contentsline {subsection}{\numberline {4.3}Tuning $\alpha $}{7}%
+\contentsline {section}{\numberline {5}Metodi Ensemble}{8}%
+\contentsline {subsection}{\numberline {5.1}Bagging}{8}%
+\contentsline {paragraph}{Boostrapped Dataset}{8}%
+\contentsline {subsubsection}{\numberline {5.1.1}Bagging su alberi di regressione}{8}%
+\contentsline {subsection}{\numberline {5.2}Random Forest}{8}%
+\contentsline {subsection}{\numberline {5.3}Out of bag samples}{8}%
+\contentsline {section}{\numberline {6}Implementazione}{9}%
+\contentsline {subsection}{\numberline {6.1}Struttura progetto}{9}%
+\contentsline {section}{\numberline {7}Valutazione}{9}%
+\contentsline {subsection}{\numberline {7.1}Dataset}{9}%
+\contentsline {subsection}{\numberline {7.2}Metriche di valutatione}{10}%
+\contentsline {subsubsection}{\numberline {7.2.1}RMSE}{10}%
+\contentsline {subsubsection}{\numberline {7.2.2}MAPE}{10}%
+\contentsline {subsection}{\numberline {7.3}Regression Tree}{11}%
+\contentsline {subsection}{\numberline {7.4}Pruned Regression Tree}{11}%
+\contentsline {subsection}{\numberline {7.5}Bagging}{12}%
+\contentsline {subsection}{\numberline {7.6}Random Forest}{12}%
+\contentsline {subsection}{\numberline {7.7}Confronto risultati}{13}%

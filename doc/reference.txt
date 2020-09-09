@@ -1,0 +1,4 @@
+
+[8] One Hot Encoding for categorical data https://it.wikipedia.org/wiki/One-hot
+
+
