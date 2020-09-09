@@ -1,4 +1,0 @@
-Understanding the bias variance tradeoff  Scott Fortman Roe
-Journal of Machine Learning Research Jamieson
-Robust adn efficient Hyperparameter optimization
-Adavances in neural information processing systems
